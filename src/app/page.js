@@ -1,8 +1,11 @@
+import HeroSection from '@/components/frontend/ui/HeroSection'
 import React from 'react'
 
 const page = () => {
   return (
-    <div>page</div>
+    <div>
+      <HeroSection/>
+    </div>
   )
 }
 
