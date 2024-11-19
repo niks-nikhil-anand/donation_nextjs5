@@ -17,6 +17,14 @@ const testimonials = [
     text: '“You made it so simple. My new site is so much faster and easier to work with than my old site. I just choose the page, make the change.”',
     stars: 5,
   },
+  {
+    id: 3,
+    name: 'Leslie Alexander',
+    role: 'Freelance React Developer',
+    image: 'https://cdn.rareblocks.xyz/collection/clarity/images/testimonial/4/avatar-male-1.png',
+    text: '“You made it so simple. My new site is so much faster and easier to work with than my old site. I just choose the page, make the change.”',
+    stars: 5,
+  },
  
   // Add more testimonials as needed
 ];
